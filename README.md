@@ -5,13 +5,11 @@ Hey! I'm Harshal, a self-taught dev from India grinding through this bootcamp. S
 
 ## 📋 Progress
 - ✅ **HTML Basics** (structure, semantics, lists, forms, embeds)
-- [ ] **CSS Fundamentals** (selectors, box model, positioning)
-- [ ] **Advanced CSS** (Flexbox, Grid)
-- [ ] **Bootstrap**
+- ✅ **CSS Fundamentals** (selectors, box model, positioning)
+- ✅ **Advanced CSS** (Flexbox, Grid)
+- ✅ **Bootstrap**
 - [ ] **JavaScript** (DOM, events)
 
-## 🛠️ What I've Built So Far
-All in `html/` folder – open any `index.html` in browser to see:
 
 | Project | What I Learned | Files |
 |---------|----------------|-------|
@@ -21,6 +19,6 @@ All in `html/` folder – open any `index.html` in browser to see:
 | **Contact Page** | Forms, textareas | `contact.html` |
 
 ## 🎯 Next Steps
-Dive into CSS styling these pages, then Flexbox/Grid for layouts. Goal: Responsive portfolio by JS section.
+Goal: Responsive portfolio by JS section.
 
 **Live Preview**: Fork & enable GitHub Pages, or just open files locally.
